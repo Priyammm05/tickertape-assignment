@@ -79,3 +79,8 @@ Denik is a Flutter-based news application that fetches and displays news article
 
 ```
 
+## Video (Drive Link)
+
+```
+https://drive.google.com/file/d/1lauINQQGmGSYQdpIesJNrj46jjZ9U0Wo/view?usp=sharing
+```
