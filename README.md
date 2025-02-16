@@ -84,3 +84,51 @@ Denik is a Flutter-based news application that fetches and displays news article
 ```
 https://drive.google.com/file/d/1lauINQQGmGSYQdpIesJNrj46jjZ9U0Wo/view?usp=sharing
 ```
+
+## How to Set Up and Run the Project Locally 🚀  
+
+Follow these steps to set up and run the **Denik** Flutter project on your local machine:  
+
+### Prerequisites ✅  
+- Ensure you have **Flutter** installed. You can download it from [Flutter's official site](https://flutter.dev/docs/get-started/install).  
+- Install **Dart SDK** (included with Flutter).  
+- Set up an emulator or connect a physical device.  
+- Get a **NewsAPI key** from [NewsAPI.org](https://newsapi.org/).  
+
+### Steps to Run the Project  
+
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/Priyammm05/tickertape-assignment
+   cd tickertape-assignment
+
+2. **Install Dependencies**  
+   ```sh
+   flutter pub get
+
+3. **Add API Key**  
+   ```sh
+   create .env file in assets and add NEWS_API_KEY="YOUR_API_KEY"
+
+4. **Run the App**  
+   ```sh
+   flutter run
+
+## Areas for Improvement 🚀  
+
+While **Denik** is fully functional, here are some areas where it can be further improved:  
+
+1. **Dark Mode Support 🌙**  
+   - Implement a dark theme for better user experience, especially in low-light environments.  
+
+2. **Bookmark Feature 📌**  
+   - Allow users to save their favorite articles for later reading.  
+
+3. **Better Error Handling 🚨**  
+   - Improve error messages for different failure scenarios like API rate limits, invalid queries, etc.   
+
+4. **User Authentication 🔐**  
+   - Implement a simple login/signup system to personalize the news feed based on user preferences.  
+
+These improvements can make **Denik** more powerful and user-friendly! 🚀  
+
