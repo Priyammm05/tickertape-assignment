@@ -36,7 +36,7 @@ Denik is a Flutter-based news application that fetches and displays news article
   - Handles API failures and empty search results gracefully.  
 
 ## Tech Stack 🛠  
-- **Framework:** Flutter  
+- **Framework:** Flutter (3.19.6 used in the project)
 - **State Management:** GetX  
 - **Networking:** HTTP package for API calls  
 - **Caching:** SharedPreferences
