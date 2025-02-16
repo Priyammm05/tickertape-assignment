@@ -20,7 +20,7 @@ Denik is a Flutter-based news application that fetches and displays news article
   - Smooth transition animation between home and detail pages.  
 
 - **Pagination & Infinite Scrolling 📄**  
-  - Initially loads 5 articles.  
+  - Initially loads 5 articles (since most of the time I was getting less then 20 result which was mentioned in the pdf so to make the pagination works more efficiently have made it 5 which can be changed in the constants for any number) 
   - As the user scrolls down, more articles are fetched dynamically.  
   - A shimmer effect is shown during loading.  
 
